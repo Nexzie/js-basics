@@ -1,7 +1,7 @@
 what runs javascript outside the browser? 
 NODE.
 
-5 things JavaScript can do: 
+five things JavaScript can do: 
 Web applications 
 mobile applications 
 Games Artificial Intelligence 
